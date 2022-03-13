@@ -6,3 +6,13 @@
   color: #2c3e50;
   margin-top: 60px;
 }
+
+.input-area{
+  background-color: aqua;
+}
+.incomplete-area{
+  background-color: aquamarine;
+}
+.complete-area{
+  background-color: bisque;
+}
